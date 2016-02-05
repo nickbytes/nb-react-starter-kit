@@ -35,7 +35,7 @@ gulp.task('styles',function() {
   gulp.src('css/fonts/**.*')
     .pipe(gulp.dest('build/css/fonts'))
 
-  // postcss processing
+  // Postcss processing
   var processors = [
     atImport,
     customMedia,

@@ -10,7 +10,7 @@ class Header extends React.Component {
     return (
       <header className="container px2 mt4">
         <h1 className="caps uppercase h6 blue">{this.props.tagline}</h1>
-        <h2 className="h1">React Starter Kit</h2>
+        <h2 className="h1 mt0">React Starter Kit</h2>
       </header>
     )
   }
