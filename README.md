@@ -1,3 +1,1 @@
-# React Starter Kit
-
-⚠️ WIP – Documentation soon.
+Use [Create React App](https://github.com/facebookincubator/create-react-app) instead.
